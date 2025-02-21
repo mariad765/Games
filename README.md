@@ -1,6 +1,6 @@
 # 3D Drome Game Demo
 
-Experience the excitement of the **3D Drome Game** with this demo video. 
+Experience the excitement of the **3D Drome Game**. 
 
 ## Description of project
 ### Vertex Shader and Fragment Shader Collaboration
