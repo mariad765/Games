@@ -110,9 +110,51 @@ The system also checks if the drone is colliding with the ground. By sampling mu
 
 
 
+## Game Instructions
+
+## Controls
+
+### Camera Movement
+- **Hold Right Mouse Button** to enable camera movement.
+- **W** / **S** - Move the camera forward/backward.
+- **A** / **D** - Move the camera left/right.
+- **Q** / **E** - Move the camera up/down.
+
+### Field of View and Projection
+- **1** / **2** - Decrease/increase the field of view.
+- **3** / **4** - Increase/decrease the projection width.
+- **5** / **6** - Increase/decrease the projection height.
+- **O** - Switch to orthographic projection.
+- **P** - Switch to perspective projection.
+
+### Drone Movement
+- **Arrow Down** - Move the drone forward.
+- **Arrow Up** - Move the drone backward.
+- **Arrow Right** - Move the drone left.
+- **Arrow Left** - Move the drone right.
+- **U** - Move the drone upward.
+- **H** - Move the drone downward.
+
+### Drone Rotation
+- **J** - Rotate the drone counterclockwise.
+- **K** - Rotate the drone clockwise.
+
+### Additional Features
+- **T** - Toggle rendering of the camera target.
+
+## Mouse Controls
+- **Hold Right Mouse Button** and move the mouse to rotate the camera:
+  - **Without CTRL**: First-person rotation.
+  - **With CTRL**: Third-person rotation.
+
+## Gameplay Mechanics
+- Navigate the drone through obstacles like trees and houses.
+- Pass through checkpoints correctly to progress.
+- Avoid collisions with obstacles and the ground.
+- Adjust camera and projection settings for better visibility.
+
+Enjoy piloting the drone!
   
-
-
 
 ## Watch the Demo
 
