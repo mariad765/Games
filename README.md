@@ -1,6 +1,6 @@
-# 3D Drome Game Demo
+# 3D Drome Game
 
-Experience the excitement of the **3D Drome Game**. 
+This project is a **3D Drone Race Game**. 
 
 ## Description of project
 ### Vertex Shader and Fragment Shader Collaboration
@@ -28,6 +28,9 @@ The vertex shader in this project is used to generate realistic terrain geometry
 #### Fragment Shader: Fine-Tuning the Visuals
 - **Color Blending and Texturing:**  
   The fragment shader takes the interpolated data from the vertex shader and applies detailed color blending based on the modified vertex position. This step is essential for adding realistic lighting, shading, and texture transitions across different terrain features like lakes, grasslands, and mountain peaks.
+
+  ![image](https://github.com/user-attachments/assets/9a413770-cf50-4c20-bc04-38841a090d14)
+
 
 - **Collaborative Workflow:**  
   Together, the vertex shader and fragment shader create a pipeline:
